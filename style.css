@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+    background-image: url("../Desktop/TTFPP/Screenshot_20220830-185738_Chrome.jpg");
+    text-align: center;
+    backdrop-filter: blur(10px);
+    box-sizing: border-box;
+    background-position: fixed;
+    z-index: 2;
+}
+table{
+    background-color: aliceblue;
+    background-image: url("../Desktop/TTFPP/Screenshot_20220830-185341_Chrome.jpg");
+    background-position: fixed;
+    background-size: 300px;
+    backdrop-filter: 10px;
+    height: 200px;
+    width: 500px;
+    border: 5px solid blue;
+}  
+img{
+    width: 500px;
+    height: 100px;
+}
+p{
+    font-size: x-large;
+    padding: 50px;
+}
+a{
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+}
